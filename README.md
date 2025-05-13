@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moses Dimas Ahimsa</h1>
-<h3 align="center">A passionate game developer from Indonesia</h3>
+<h3 align="center">A passionate Unity Game Developer from Indonesia for 2+ years now and a CEO from Lunar Interactive (PT Maya Karya Interaktif)</h3>
 
 ###
 
@@ -22,7 +22,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/moses dimas ahimsa](https://www.linkedin.com/in/moses-dimas-ahimsa-035373286" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moses dimas ahimsa" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/moses-dimas-ahimsa-035373286" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="moses dimas ahimsa" height="30" width="40" /></a>
 <a href="https://instagram.com/ahimsa.md" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahimsa.md" height="30" width="40" /></a>
 <a href="https://discord.gg/458581528432214026" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="458581528432214026" height="30" width="40" /></a>
 </p>
