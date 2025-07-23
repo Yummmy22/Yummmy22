@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **mosesdimasahimsa@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1t34gEkzBECjMQ-69Czu77Gj2Ll8nMUIR/view?usp=sharing](https://drive.google.com/file/d/1t34gEkzBECjMQ-69Czu77Gj2Ll8nMUIR/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1VeGphTpiV9RHsxkMT4QBvrI4Vw7F3yJp/view?usp=drive_link)
 
 - ⚡ Fun fact **I'm just a student but competing againts another huge company with my startup**
 
